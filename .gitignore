@@ -1,1 +1,5 @@
-Year 3 Semester 2/Exoplanets/LectureSlides.pdf
+# Ignore all PDF files
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
